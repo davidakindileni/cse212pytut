@@ -404,3 +404,6 @@ if __name__ == '__main__':
 - [Porter, Riley. 2017. "Pseudocode, ADTs, Priority Queues, Heaps." CSE 373: Data Structures & Algorithms, Winter 2017, University of Washington. Accessed 2022-02-24.](https://courses.cs.washington.edu/courses/cse373/17wi/lectures/priority-queues.pdf)
 - [Wikipedia. 2021. "Data Structures/Stacks and Queues" Wikipedia. Updated 2020-09-20. Accessed 2022-02-24.](https://en.wikibooks.org/wiki/Data_Structures/Stacks_and_Queues)
 - [TutorialsPoint, Queue Data Structure.](https://www.tutorialspoint.com/data_structures_algorithms/dsa_queue.htm)
+
+
+[Back to Welcome Page](0-welcome.md)

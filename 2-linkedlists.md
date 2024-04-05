@@ -443,3 +443,4 @@ In summary, a doubly linked list is a flexible and efficient data structure in P
 - [RealPython, Python Classes: The Power of Object-Oriented Programming.](https://realpython.com/python-classes/)
 
 
+[Back to Welcome Page](0-welcome.md)
