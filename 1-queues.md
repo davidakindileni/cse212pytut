@@ -361,7 +361,7 @@ Given a positive number n, efficiently generate binary numbers between 1 and n u
 
 #### Solution to the exercise
 
-<details open>
+<details closed>
 <summary>Click only after attempting the exercise.</summary>
 
 ```python

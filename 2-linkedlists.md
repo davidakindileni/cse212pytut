@@ -309,7 +309,7 @@ You will now practice writing the codes for removing a node at the head, tail, a
 ## Exercises
 
 1. Remove the node at the head.
-    <details close>
+    <details closed>
     <summary>Solution to exercise 1-1</summary>
 
     ```python
@@ -328,7 +328,7 @@ You will now practice writing the codes for removing a node at the head, tail, a
 
 
 2. Remove the node at the tail.
-    <details close>
+    <details closed>
     <summary>Solution to exercise 1-2</summary>
 
     ```python
@@ -347,7 +347,7 @@ You will now practice writing the codes for removing a node at the head, tail, a
 
 
 3. Remove the node with the value "245".
-    <details close>
+    <details closed>
     <summary>Solution to exercise 1-3</summary>
 
     ```python
@@ -412,16 +412,16 @@ Output:
 
 ## Complexity
 
-Complexity defines how easy or difficult a problem or a solution is. It is measured in two ways: (a) time complexity, and (b) space complexity. Time complexity measure the time it takes to execute an operation on a data structure, while space complexity messures the amount of storage or memory space it takes to store the data structure. The complexity of a queue is shown in the table below:
+Complexity defines how easy or difficult a problem or a solution is. It is measured in two ways: (a) time complexity, and (b) space complexity. Time complexity measure the time it takes to execute an operation on a data structure, while space complexity messures the amount of storage or memory space it takes to store the data structure. The complexity of a linked list is shown in the table below:
 
-Operation     | Linked List
-------------- | -----------
-Insert front  |      O(1)
-Insert middle |      O(n)
-Insert end    |      O(1)
-Remove front  |      O(1)
-Remove middle |      O(n)
-Remove end    |      O(1)
+| Operation     | Linked List |
+|---------------|-------------|
+| Insert front  |      O(1)   |
+| Insert middle |      O(n)   |
+| Insert end    |      O(1)   |
+| Remove front  |      O(1)   |
+| Remove middle |      O(n)   |
+| Remove end    |      O(1)   |
 
 
 ## Summary
@@ -435,6 +435,7 @@ Some key operations that can be performed on a doubly linked list include insert
 Doubly linked lists offer several advantages over singly linked lists. They allow for efficient traversal in both directions, which can be useful in certain algorithms. Additionally, they enable easy manipulation of the list, such as inserting or deleting elements at any position without the need to shift multiple nodes. However, doubly linked lists do require more memory compared to singly linked lists due to the extra reference stored in each node.
 
 In summary, a doubly linked list is a flexible and efficient data structure in Python that allows for easy traversal and manipulation of elements in both directions. It can be effectively used in various algorithms and problem-solving scenarios where the need arises for bidirectional linking and efficient data access.
+
 ## Further Reading
 
 - [Porter, Riley. 2017. "Pseudocode, ADTs, Priority Queues, Heaps." CSE 373: Data Structures & Algorithms, Winter 2017, University of Washington. Accessed 2022-02-24.](https://courses.cs.washington.edu/courses/cse373/17wi/lectures/priority-queues.pdf)
